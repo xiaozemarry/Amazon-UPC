@@ -1,13 +1,8 @@
 <html>
     <head>
-        <title>Upload a file please</title>
     </head>
     <body>
-        <h1>Please upload a file</h1>
-        <form method="post" action="/mvc/upload/simplegate" enctype="multipart/form-data">
-            <input type="text" name="name"/>
-            <input type="file" name="file"/>
-            <input type="submit"/>
-        </form>
+        <h1>标题字数判断</h1>
+        <input type="text" name="name"/>
     </body>
 </html>
