@@ -1,11 +1,7 @@
 <html>
     <head>
     </head>
-    <script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js"></script>
-    <script>
-    console.log($("#ta"))
-    
-    </script>
+ 
     
     <body>
         <h1>标题字数判断</h1>
